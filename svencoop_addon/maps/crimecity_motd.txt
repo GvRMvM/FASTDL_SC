@@ -1,0 +1,74 @@
+Map by MizzyMiz
+
+///Premise///////////////////////////////////
+
+You arrived into this city on a train and your primary objective is to leave.
+
+Do some jobs for the local criminals (Yakuza, Russian mob, Mobius INC, the police) and get enough money to leave this place.
+This is an open world map with multiple paths to complete it.
+
+(Each faction has 4 quests and will mostly lock out eachother, so you should focus on one faction per playthrough)
+
+///Money///////////////////////////////////
+
+You can get Digibux for completing missions, as well as just finding it laying around. You can buy weapons and other things with it.
+You should probably buy a weapon first, because most first missions need a weapon to be completed.
+
+You can also unlock the bus system, which acts as a fast travel method. Be careful with it, because you can accidentally telefrag your friends!
+
+(I am bad at mapping so if you are carrying too much money for something you will need to drop them from the inventory by pressing I)
+
+///Objective///////////////////////////////////
+
+The questlines will tell you what to do, usually take the money and go back to the train station. 
+This map is survival mode by default so make sure to buy the medkit and take care of eachother, some fights can be hard.
+
+If you hurt civilians the police will become hostile to you, and will be hostile until the end of the map.
+Hurting a faction member will only anger that faction, the police will not care. They also do not care about homeless people.
+
+If you mess up and anger any faction you didn't want to anger, you can restart the map from the train station or by typing "restart" into the console.
+
+///Credits///////////////////////////////////
+
+
+-----------Models-----------
+The zxeno prophet
+Werewolf
+They Hunger team
+Arxthiri
+CyborgParrot
+Romka
+LAca
+Black Skull
+kianid
+Andrea
+Davide
+fshy2010
+RuMpel
+EggKaiser
+WoodenMan
+Havok 101
+Valve
+Sven Co-op team
+
+and some others
+
+-----------Textures-----------
+aurora
+Evile Dick
+Dethtex
+Maury147
+
+and me
+
+-----------the hentai posters-----------
+motokonut
+shexyo
+
+-----------Music-----------
+Exyz - Sayonara
+El Huervo  - Rust
+Luxury Elite - Express
+TESK - NGHTWLK
+KORDHELL - MURDER IN MY MIND
+Michael Sembello - Maniac

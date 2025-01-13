@@ -1,0 +1,51 @@
+##Drug addict zombie
+
+"zombie/zo_alert10.wav" "crimecity/zombie/zo_alert10.wav"
+"zombie/zo_alert20.wav" "crimecity/zombie/zo_alert20.wav"
+"zombie/zo_alert30.wav" "crimecity/zombie/zo_alert30.wav"
+
+"zombie/zo_idle1.wav" "crimecity/zombie/idle.wav"
+"zombie/zo_idle2.wav" "crimecity/zombie/idle.wav"
+"zombie/zo_idle3.wav" "crimecity/zombie/idle.wav"
+"zombie/zo_idle4.wav" "crimecity/zombie/idle.wav"
+
+"zombie/zo_pain1.wav" "crimecity/zombie/zo_pain1.wav"
+"zombie/zo_pain2.wav" "crimecity/zombie/zo_pain2.wav"
+"zombie/zo_pain3.wav" "crimecity/zombie/zo_pain3.wav"
+
+"zombie/zo_attack1.wav" "crimecity/zombie/zombie/zo_attack1.wav"
+"zombie/zo_attack2.wav" "crimecity/zombie/zombie/zo_attack2.wav"
+
+"gonome/gonome_idle1.wav" "crimecity/zombie/idle.wav"
+"gonome/gonome_idle2.wav" "crimecity/zombie/idle.wav"
+"gonome/gonome_idle3.wav" "crimecity/zombie/idle.wav"
+
+"speech/saveme1.wav" "crimecity/lessgo.ogg"
+"speech/grenade1.wav" "crimecity/fu.ogg"
+
+"items/smallmedkit1.wav" "crimecity/items/pills.wav"
+
+"weapons/dbarrel1.wav" "crimecity/weapons/dbarrel1.wav"
+"weapons/dbarrel2.wav" "crimecity/weapons/dbarrel2.wav"
+"weapons/sbarrel1.wav" "crimecity/weapons/sbarrel1.wav"
+"weapons/sbarrel2.wav" "crimecity/weapons/sbarrel2.wav"
+
+"weapons/cbar_hitbod1.wav" "crimecity/weapons/knife_hitbod1.wav"
+"weapons/cbar_hitbod2.wav" "crimecity/weapons/knife_hitbod2.wav"
+"weapons/cbar_hitbod3.wav" "crimecity/weapons/knife_hitbod2.wav"
+"weapons/cbar_hit1.wav" "crimecity/weapons/knife_hitwall1.wav"
+"weapons/cbar_hit2.wav" "crimecity/weapons/knife_hitwall1.wav"
+"weapons/cbar_miss1.wav" "crimecity/weapons/knife_miss.wav"
+
+"weapons/chainsaw_running_idle.wav" "crimecity/weapons/chainsaw_running_idle.wav"
+"weapons/chainsaw_start.wav" "crimecity/weapons/chainsaw_start.wav"
+"weapons/pwrench_miss1.wav" "crimecity/weapons/pwrench_miss1.wav"
+"weapons/pwrench_miss2.wav" "crimecity/weapons/pwrench_miss2.wav"
+"weapons/pwrench_big_miss.wav" "crimecity/weapons/pwrench_miss1.wav"
+"weapons/pwrench_hit1.wav" "crimecity/weapons/pwrench_hit1.wav"
+"weapons/pwrench_hit2.wav" "crimecity/weapons/pwrench_hit2.wav"
+"weapons/pwrench_hitbod1.wav" "crimecity/weapons/pwrench_hitbod1.wav"
+"weapons/pwrench_hitbod2.wav" "crimecity/weapons/pwrench_hitbod2.wav"
+"weapons/pwrench_hitbod3.wav" "crimecity/weapons/pwrench_hitbod3.wav"
+"weapons/pwrench_big_hitbod1.wav" "crimecity/weapons/pwrench_big_hitbod1.wav"
+"weapons/pwrench_big_hitbod2.wav" "crimecity/weapons/pwrench_big_hitbod1.wav"

@@ -1,0 +1,11 @@
+STEINER1 barbarossa/steiner1
+STEINER2 barbarossa/steiner2
+STEINER3 barbarossa/steiner3
+STEINER4 barbarossa/steiner4
+STEINER5 barbarossa/steiner5
+STEINER6 barbarossa/steiner6
+STEINER7 barbarossa/steiner7
+STEINER8 barbarossa/steiner8
+STEINER9 barbarossa/steiner9
+STEINER10 barbarossa/steiner10
+STEINER11 barbarossa/steiner11

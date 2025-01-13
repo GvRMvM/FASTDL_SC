@@ -1,0 +1,2 @@
+1
+weapon		640 null	0	0 0 0

@@ -1,0 +1,61 @@
+Operation Barbarossa, Second Chapter
+
+Author: Yossi Kohen
+Version: Release Candidate #4
+Date: 04/07/2021
+======
+A visual narrative of Operation Barbarossa, depicted with Sven-Coop style.
+
+The map consists of two chapters. These chapters have two separate map files (i.e. Ch1: operation_barbarossa -> Ch2: operation_barbarossa_ch2)
+
+In the first chapter, you start playing as a German soldier whose name is "Rudolf Schwarz". In the second chapter, you play as a Soviet soldier named "Vitaly Voronin".
+
+The map will start when there are at least 6 players connected to the server.
+
+The play time is expected to be from 45 minutes to 1 hour in total. There will be various tracks playing in the background to make it fully enjoyable.
+
+Enjoy!
+======
+Episode 1
+
+Date: November, 1943
+Location: Minsk, Reichskomissariat Ostland
+
+After the tragic event, you now play as a Soviet soldier, named 'Vitaly Voronin'.
+
+The Nazis could not hold Moscow much long, and therefore backed to Reichkomissariat Ostland.
+
+Your objective is to kill all Nazi soldiers in Minsk to dismantle the R.K. Ostland and ultimately to pursue to Berlin.
+----
+Episode 2
+
+Date: January, 1945
+Location: Krakow, General Governorate
+
+Throughout 2 years, the soviet soldiers defeated the Nazis in Minsk and the Reichkomissariat Ostland collapsed!
+You are now deployed to Krakow.
+
+The Nazis have owned the city for almost 4 years. There are Nazis everywhere.
+
+Your objective is to kill all the Nazis and liberate the town.
+----
+Episode 3
+
+Date: April, 1945
+Location: Bavarian Alps, Third Reich
+
+The entire Nazi operation is gone. The Nazis lost the war.
+Your teammates reached Berlin and confirmed that the Führer killed himself.
+
+Meanwhile, you are deployed in the Bavarian Alps to investigate Führer's safe house.
+You must kill all the remaining Nazis to get inside of his house.
+----
+Episode 4
+
+A brief postface, telling how the war affected the Germans, the ones who started it. The consequences to the innocent German civilians. It also contains a short neutral biography of A. Hitler.
+
+The map ends here.
+======
+DISCLAIMER
+
+I do not believe in nor endorse the ideas of communism, socialism, fascism, Falangism, Nazism, or national socialism; the map was made as a side-project during my free time purely for fictional purposes. This project does not glorify any nation or entity featured via their music or any other means.
