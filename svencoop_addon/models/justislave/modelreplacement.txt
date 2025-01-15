@@ -1,0 +1,24 @@
+"models/p_pipe_wrench.mdl" "models/justzombies/weapons/p_bigboot.mdl"
+"models/v_pipe_wrench.mdl" "models/justzombies/weapons/v_bigboot.mdl"
+"models/w_pipe_wrench.mdl" "models/justzombies/weapons/w_bigboot.mdl"
+
+"models/p_crowbar.mdl" "models/justzombies/weapons/p_nothing.mdl"
+"models/v_crowbar.mdl" "models/justzombies/weapons/v_xenclaws.mdl"
+"models/w_crowbar.mdl" "models/justzombies/weapons/w_nothing.mdl"
+
+"models/p_medkit.mdl" "models/justzombies/weapons/p_xenmedkit.mdl"
+"models/v_medkit.mdl" "models/justzombies/weapons/v_xenmedkit.mdl"
+"models/w_medkit.mdl" "models/justzombies/weapons/w_xenmedkit.mdl"
+
+"models/p_gauss.mdl" "models/justzombies/weapons/p_nothing.mdl"
+"models/v_gauss.mdl" "models/justzombies/weapons/v_xencharge.mdl"
+"models/w_gauss.mdl" "models/justzombies/weapons/w_nothing.mdl"
+
+"models/p_egon.mdl" "models/justzombies/weapons/p_ghostegon.mdl"
+"models/v_egon.mdl" "models/justzombies/weapons/v_ghostegon.mdl"
+"models/w_egon.mdl" "models/justzombies/weapons/w_nothing.mdl"
+
+"models/v_spore_launcher.mdl" "models/justzombies/weapons/v_spore_launcher.mdl"
+
+"models/apache.mdl" "models/justzombies/monster/apache_hovercopter.mdl"
+"models/hgrunt.mdl" "models/justzombies/monster/hgrunt_specops.mdl"

@@ -1,0 +1,6 @@
+6
+weapon				640		640hudof03							0	135	170	45
+weapon_s			640		640hudof04							0	135	170	45
+ammo				640		ragemap2023/kezaeiv/kezammo			0	24	24	24
+zoom				640		ragemap2023/kezaeiv/kezsniper		0	0	256	256
+crosshair			640		ragemap2023/kezaeiv/kezcrosshairs	278	262	52	52

@@ -1,0 +1,5 @@
+4
+weapon				640		ragemap2023/kezaeiv/640tfcminigun	0	90	170	45
+weapon_s			640		ragemap2023/kezaeiv/640tfcminigun	0	90	170	45
+ammo				640		ragemap2023/kezaeiv/kezammo			72	0	24	24
+crosshair			640		ragemap2023/kezaeiv/kezcrosshairs	158	2	52	52

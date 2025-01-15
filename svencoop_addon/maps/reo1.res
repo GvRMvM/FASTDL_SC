@@ -77,6 +77,7 @@ models/REvil/WModels/combatshotgun/v_shotgun.mdl
 models/REvil/WModels/combatshotgun/w_shotgun.mdl
 models/REvil/WModels/deagle/p_357.mdl
 models/REvil/WModels/deagle/w_357.mdl
+models/REvil/WModels/deagle/v_357.mdl
 models/REvil/WModels/gauss/p_displacer.mdl
 models/REvil/WModels/gauss/v_displacer.mdl
 models/REvil/WModels/gauss/w_displacer.mdl

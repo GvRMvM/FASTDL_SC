@@ -1,0 +1,10 @@
+ERTY_COFFEE0 barney/ba_cure1
+ERTY_COFFEE1 barney/ba_docprotect3
+ERTY_COFFEE2 barney/ba_heeey
+ERTY_COFFEE3 barney/die
+ERTY_COFFEE4 barney/youtalkmuch
+ERTY_COFFEE5 barney/killme
+ERTY_COFFEE6 barney/ba_stare0
+ERTY_COFFEE7 barney/ba_post
+ERTY_COFFEE8 barney/ba_post
+ERTY_COFFEE9 barney/ba_post

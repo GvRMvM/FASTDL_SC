@@ -1,0 +1,19 @@
+# Ragemap 2023 - Part A
+
+## In this part
+
+- Escape The Salt, by Adambean
+- The Salt Factory, by Erty
+- One Pod Short, by Hezus
+- Coop Royale, by Nih
+- Lunar Launch, by Outerbeast
+
+## Commands
+
+- Say "/voteskip" to start a vote for skipping the current part.
+  (Should be used if a part breaks entirely.)
+- Server administrators can say "/skip" to force skipping the current part.
+
+## Credits
+
+See the accompanying file "ragemap2023_readme.txt" for credits.

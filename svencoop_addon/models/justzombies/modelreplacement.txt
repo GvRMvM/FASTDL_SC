@@ -1,0 +1,3 @@
+"models/p_pipe_wrench.mdl" "models/justzombies/weapons/p_bigboot.mdl"
+"models/v_pipe_wrench.mdl" "models/justzombies/weapons/v_bigboot.mdl"
+"models/w_pipe_wrench.mdl" "models/justzombies/weapons/w_bigboot.mdl"

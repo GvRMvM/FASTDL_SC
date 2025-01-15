@@ -1,0 +1,31 @@
+JustMansion - JustZombies Series Part 3
+Version: 5.06
+Author: Unzumutbar
+E-Mail: unzumutbar@bürgel.eu
+Credits: See JustZombies_readme.txt
+
+-----------------------------
+REQUIREMENTS :
+-----------------------------
+»  At least 2 Players are required to complete this map.
+
+
+-----------------------------
+OBJECTIVES :
+-----------------------------
+»  Find a way out of the Mansion
+»  Don't get eaten by Zombies (again)
+»  Solve some riddles inside the mansion
+»  Ain't afraid of no ghosts
+»  Get your unlicensed nuclear accelerators from your car
+»  Activate another Teleporter
+»  Have fun!
+
+
+-----------------------------
+HINTS :
+-----------------------------
+»  The Grapple Gun has a Repel function. Use it when you think you are stuck.
+»  All doors in the mansion will open once you reach the Teleporter room (not the one at the start).
+»  Ghosts are almost immune to regular ammunition. You'll need special equipment for them.
+»  Don't fight the final ghost directly. Try finding a different way to destroy/capture it.

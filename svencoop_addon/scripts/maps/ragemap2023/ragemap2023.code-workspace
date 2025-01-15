@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"renesackers.angelscript",
+			"wmaurer.change-case",
+			"streetsidesoftware.code-spell-checker",
+			"tyriar.sort-lines"
+		]
+	}
+}

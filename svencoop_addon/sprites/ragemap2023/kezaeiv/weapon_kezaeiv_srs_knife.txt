@@ -1,0 +1,4 @@
+3
+weapon				640		ragemap2023/kezaeiv/weapon_knife	0	0	170	45
+weapon_s			640		ragemap2023/kezaeiv/weapon_knife	0	45	170	45
+crosshair			640		ragemap2023/kezaeiv/kezcrosshairs	210	106	52	52

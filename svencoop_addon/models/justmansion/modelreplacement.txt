@@ -1,0 +1,18 @@
+"models/p_357.mdl" "models/justzombies/weapons/p_ghostbasher.mdl"
+"models/v_357.mdl" "models/justzombies/weapons/v_ghostbasher.mdl"
+"models/w_357.mdl" "models/justzombies/weapons/w_ghostbasher.mdl"
+
+"models/p_gauss.mdl" "models/justzombies/weapons/p_ghostgauss.mdl"
+"models/v_gauss.mdl" "models/justzombies/weapons/v_ghostgauss.mdl"
+"models/w_gauss.mdl" "models/justzombies/weapons/w_ghostgauss.mdl"
+
+"models/p_egon.mdl" "models/justzombies/weapons/p_ghostegon.mdl"
+"models/v_egon.mdl" "models/justzombies/weapons/v_ghostegon.mdl"
+"models/w_egon.mdl" "models/justzombies/weapons/w_ghostegon.mdl"
+
+"models/gonome.mdl" "models/justzombies/monster/gonome_ghost.mdl"
+"models/strooper.mdl" "models/justzombies/monster/strooper_ghost.mdl"
+"models/controller.mdl" "models/justzombies/monster/controller_ghost.mdl"
+"models/bullsquid.mdl" "models/justzombies/monster/bullsquid_ghost.mdl"
+"models/pit_drone.mdl" "models/justzombies/monster/pitdrone_ghost.mdl"
+"models/baby_headcrab.mdl" "models/justzombies/monster/babyheadcrab_ghost.mdl"
