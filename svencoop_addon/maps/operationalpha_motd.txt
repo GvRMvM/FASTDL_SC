@@ -1,8 +1,0 @@
-Operation Alpha: Home
-Date: Dec. 12th 1995
-Time: 6:05am
-Briefing: None
-Objectives: 
- 1 Go to breifing room to get mission
- 2 Go to helipad	
-
